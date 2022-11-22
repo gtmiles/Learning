@@ -1,3 +1,3 @@
 #Learning
 
-Learn Git today
+Learn Git today!
